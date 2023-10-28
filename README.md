@@ -1,7 +1,14 @@
 # Description
 
 Project developed with Nest.js and axios.
-We use the API from Github to catch the commits made on this repository and the frontend repository of this same project and serve the information to the frontend site to show it.
+I use the API from Github to catch the commits made on this repository and the frontend repository of this same project and serve the information to the frontend site to show it.
+
+## Features
+
+This project provides the following features:
+
+- A backend API for tracking commits made on a GitHub repository.
+- A frontend website that displays the commit history of a GitHub repository.
 
 # Installation
 
